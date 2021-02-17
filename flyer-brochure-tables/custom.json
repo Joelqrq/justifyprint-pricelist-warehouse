@@ -1,0 +1,203 @@
+[
+    {
+        "titles": [
+            "Size Available",
+            "Custom Size"
+        ],
+        "items": [
+            [
+                {
+                    "icon": "&#xf00c;",
+                    "text": "A3 (297mm x 420mm)"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "A4 (210mm x 297mm)"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "A5 (148mm x 210mm)"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "A6 (105mm x 148mm)"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "A7 (74mm x 105mm)"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "DL (99mm x 210mm)"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "2DL (198mm x 210mm)"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "3 x A4 (630mm x 297mm)"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "4 x A4 (840mm x 297mm)"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "3 x A5 (444mm x 210mm)"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "4 x A5 (594mm x 210mm)"
+                }
+            ],
+            [
+                {
+                    "icon": "&#xf00c;",
+                    "text": "Min: 40mm x 40mm"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "Max: 594mm x 840mm"
+                }
+            ]
+        ]
+    },
+    {
+        "titles": [
+            "Paper Type"
+        ],
+        "items": [
+            [
+                {
+                    "icon": "&#xf00c;",
+                    "text": "Simili Paper\n-80gsm\n-100gsm"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "Gloss Art Paper\n-100gsm\n-128gsm\n-150gsm"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "Gloss Art Card\n-260gsm\n-310gsm\n-360gsm"
+                }
+            ]
+        ]
+    },
+    {
+        "titles": [
+            "Finishing Available",
+            "Folding / Creasing",
+            "Folding Availablility"
+        ],
+        "items": [
+            [],
+            [
+                {
+                    "icon": "&#xf00c;",
+                    "text": "Simili Paper\n-80gsm\n-100gsm"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "Gloss Art Paper\n-100gsm\n-128gsm\n-150gsm"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "Gloss Art Card\n-260gsm"
+                }
+            ],
+            [
+                {
+                    "icon": "&#xf105;",
+                    "text": "Open Size"
+                },
+                {
+                    "icon": "&#xf105;",
+                    "text": "Height allowed:\n90mm - 420mm"
+                },
+                {
+                    "icon": "&#xf105;",
+                    "text": "Width allowed:\n120mm - 630mm"
+                },
+                {
+                    "icon": "&#xf105;",
+                    "text": "After fold, width must not be less than 25m"
+                }
+            ]
+        ]
+    },
+    {
+        "titles": [
+            "Other Finishing",
+            "Maximum SpotUV Custom Size:",
+            "Hot Stamping",
+            "Hot Stamp Area Size:"
+        ],
+        "items": [
+            [
+                {
+                    "icon": "&#xf00c;",
+                    "text": "Matte / Gloss Lamination (Available for Gloss Art Paper 150gsm and Gloss Art Card 260gsm)"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "Spot UV (Front) / (Both) (Available for Gloss Art Card 260gsm with Matte Lamination only)"
+                }
+            ],
+            [
+                {
+                    "icon": "&#xf105;",
+                    "text": "420mm x 594mm"
+                },
+                {
+                    "icon": "&#xf105;",
+                    "text": "297mm x 630mm"
+                }
+            ],
+            [
+                {
+                    "icon": "&#xf105;",
+                    "text": "1 side only (Front or Back)"
+                },
+                {
+                    "icon": "&#xf105;",
+                    "text": "6 colours available:\nGold, Silver, Green, Blue, Black & Red"
+                },
+                {
+                    "icon": "&#xf105;",
+                    "text": "Max 2 colours"
+                }
+            ],
+            [
+                {
+                    "icon": "&#xf00c;",
+                    "text": "90mm x 30mm"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "90mm x 70mm"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "95mm x 206mm"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "101mm x 144mm"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "144mm x 206mm"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "194mm x 206mm"
+                },
+                {
+                    "icon": "&#xf00c;",
+                    "text": "206mm x 294mm"
+                }
+            ]
+        ]
+    }
+]
