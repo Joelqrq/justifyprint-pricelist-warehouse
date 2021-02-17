@@ -71,15 +71,15 @@
             [
                 {
                     "icon": "fas fa-check",
-                    "text": "Simili Paper\\n-80gsm\\n-100gsm"
+                    "text": "Simili Paper\n-80gsm\n-100gsm"
                 },
                 {
                     "icon": "fas fa-check",
-                    "text": "Gloss Art Paper\\n-100gsm\\n-128gsm\\n-150gsm"
+                    "text": "Gloss Art Paper\n-100gsm\n-128gsm\n-150gsm"
                 },
                 {
                     "icon": "fas fa-check",
-                    "text": "Gloss Art Card\\n-260gsm\\n-310gsm\\n-360gsm"
+                    "text": "Gloss Art Card\n-260gsm\n-310gsm\n-360gsm"
                 }
             ]
         ]
@@ -95,15 +95,15 @@
             [
                 {
                     "icon": "fas fa-check",
-                    "text": "Simili Paper\\n-80gsm\\n-100gsm"
+                    "text": "Simili Paper\n-80gsm\n-100gsm"
                 },
                 {
                     "icon": "fas fa-check",
-                    "text": "Gloss Art Paper\\n-100gsm\\n-128gsm\\n-150gsm"
+                    "text": "Gloss Art Paper\n-100gsm\n-128gsm\n-150gsm"
                 },
                 {
                     "icon": "fas fa-check",
-                    "text": "Gloss Art Card\\n-260gsm"
+                    "text": "Gloss Art Card\n-260gsm"
                 }
             ],
             [
@@ -113,11 +113,11 @@
                 },
                 {
                     "icon": "fas fa-angle-right",
-                    "text": "Height allowed:\\n90mm - 420mm"
+                    "text": "Height allowed:\n90mm - 420mm"
                 },
                 {
                     "icon": "fas fa-angle-right",
-                    "text": "Width allowed:\\n120mm - 630mm"
+                    "text": "Width allowed:\n120mm - 630mm"
                 },
                 {
                     "icon": "fas fa-angle-right",
@@ -161,7 +161,7 @@
                 },
                 {
                     "icon": "fas fa-angle-right",
-                    "text": "6 colours available:\\nGold, Silver, Green, Blue, Black & Red"
+                    "text": "6 colours available:\nGold, Silver, Green, Blue, Black & Red"
                 },
                 {
                     "icon": "fas fa-angle-right",
