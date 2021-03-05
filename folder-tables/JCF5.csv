@@ -1,5 +1,5 @@
-Model : JCF5,260gsm + Matte Lamination(D),260gsm + Matte Lamination(S) + Front SpotUV(S),260gsm + Matte Lamination(D) + Front SpotUV(S),310gsm + Matte Lamination(D),310gsm + Matte Lamination(S) + Front SpotUV(S),310gsm + Matte Lamination(D) + Front SpotUV(S),360gsm + Matte Lamination(D),360gsm + Matte Lamination(S) + Front SpotUV(S),360gsm + Matte Lamination(D) + Front SpotUV(S)
-Qty,4C + 4C,4C + 4C,4C + 4C,4C + 4C,4C + 4C,4C + 4C,4C + 4C,4C + 4C,4C + 4C
+JCF5 (4C * 4C),,,,,,,,,
+Qty,260gsm + Matte Lamination(D),260gsm + Matte Lamination(S) + Front SpotUV(S),260gsm + Matte Lamination(D) + Front SpotUV(S),310gsm + Matte Lamination(D),310gsm + Matte Lamination(S) + Front SpotUV(S),310gsm + Matte Lamination(D) + Front SpotUV(S),360gsm + Matte Lamination(D),360gsm + Matte Lamination(S) + Front SpotUV(S),360gsm + Matte Lamination(D) + Front SpotUV(S)
 250,940,1042,1104,980,1084,1146,1022,1124,1188
 300,970,1074,1142,1012,1116,1186,1058,1160,1230
 350,1000,1104,1182,1046,1150,1228,1094,1196,1276
